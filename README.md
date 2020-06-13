@@ -52,7 +52,7 @@ you can find a very well made youtube tutorial on how to set this up [here](http
 ---
 
 ```
-> pastebin get v49k4tfg install
+> pastebin get 0eESTLv1 install
 > install
 ```
 * modify `startup` if you wish to configure/alter any variables mentioned in the feature list, you'll find them at the top of the file
