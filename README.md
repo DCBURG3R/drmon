@@ -12,8 +12,7 @@ The whole reason i forked this is due to an issue i had when trying to set it up
 monitor and failsafe automation for your draconic reactor
 
 ### what is this
-this is a computercraft LUA script that monitors everything about a draconic reactor, with a couple features to help keep it from exploding
-NB: This is for Minecraft 1.7.10. You will need to edit references within the code for any version higher to reflect any changes made to Draconic Evolution past its 1.7.10 release.
+this is a computercraft LUA script that monitors everything about a draconic reactor, with a couple features to help keep it from exploding. Now working on 1.12.2 (*tested on FTB Revelation*) -- also works as standalone and with a handful of other random mods i had at the time.
 
 
 ### tutorial
