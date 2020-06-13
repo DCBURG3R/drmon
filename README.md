@@ -1,6 +1,6 @@
 --- Note :
 
-The whole reason i forked this is due to an issue i had when trying to set it up on an outdated server to which i could not acess the local script files (server side). I wanted an easy way to do it without much trouble so i just forked the GIT from acidjazz and changed the line that makes it work with 1.7.10 again. 
+The whole reason i forked this is due to an issue i had when trying to set it up on an outdated server to which i could not acess the local script files (server side). I wanted an easy way to do it without much trouble so i just forked the GIT from acidjazz and changed the line that makes it work with 1.12 again. 
 
 --- end note...
 
