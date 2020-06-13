@@ -1,3 +1,8 @@
+--- Note :
+
+The whole reason i forked this is due to an issue i had when trying to set it up on an outdated server to which i could not acess the local script files (server side). I wanted an easy way to do it without much trouble so i just forked the GIT from acidjazz and changed the line that makes it work with 1.7.10 again. 
+
+--- end note...
 
 ![](examples/2.jpg)
 > *status*: currently stable, writing documentation
@@ -45,9 +50,10 @@ you can find a very well made youtube tutorial on how to set this up [here](http
 * setup yoru monitors to be a 3x3 and connect a modem to anywhere but the front
 * run network cable to all 3 modems
 * install this code via running the install script using these commands :
+---
 
 ```
-> pastebin get Ls1Wg3QQ install
+> pastebin get v49k4tfg install
 > install
 ```
 * modify `startup` if you wish to configure/alter any variables mentioned in the feature list, you'll find them at the top of the file
